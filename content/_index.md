@@ -10,9 +10,6 @@ content_blocks:
       - text: bookshop
       - text: hugo
   - _bookshop_name: content
-    content_html: <p>Hello world!</p>
-    type: standard
-  - _bookshop_name: content
     content_html: >-
       <p>For more info, check out the <a
       href="https://github.com/CloudCannon/hugo-bookshop-starter#readme"
@@ -21,3 +18,4 @@ content_blocks:
 note_html: <p>You can also use the bookshop tag directly.</p>
 ---
 
+Hello World! How mixed content works here?
